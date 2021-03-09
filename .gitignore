@@ -1,0 +1,8 @@
+# Ignore the folder .0
+0. Websites you may like
+
+# Ignore mp4 files
+*.mp4
+
+# Ignore log files
+*.log
